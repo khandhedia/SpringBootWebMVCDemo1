@@ -1,1 +1,0 @@
-Hi! This is hello.jsp in /src/main/resources/templates!

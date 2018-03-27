@@ -1,1 +1,0 @@
-Hi! This is hello.jsp at src/main/resources/templates/WEB-INF/views
