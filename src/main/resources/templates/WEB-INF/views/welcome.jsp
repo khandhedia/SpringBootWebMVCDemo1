@@ -1,0 +1,1 @@
+Hi! This is welcome.jsp at src/main/resources/templates/WEB-INF/views
